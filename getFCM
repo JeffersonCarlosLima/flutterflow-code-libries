@@ -1,5 +1,6 @@
 Action name: getFCM
 lib: firebase_messaging: ^15.1.5
+type: customaction
 
 // Automatic FlutterFlow imports
 import '/backend/schema/structs/index.dart';
