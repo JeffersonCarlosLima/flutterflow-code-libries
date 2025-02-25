@@ -1,5 +1,6 @@
 name: returnIdentificationDevice
 lib: device_info_plus: ^10.1.2
+type: customaction
 
 // Automatic FlutterFlow imports
 import '/backend/schema/structs/index.dart';
